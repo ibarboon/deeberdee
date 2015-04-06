@@ -25,3 +25,4 @@
 	width:171px;
 	height:33px;
 }
+table.style tr td:first-child { white-space: nowrap; }
